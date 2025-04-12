@@ -297,7 +297,7 @@ const users = [
       qualities.Leader,
       qualities.Imagination,
     ],
-    capacity: ' $862.07 B',
+    capacity: '$862.07 B',
     rate: 7,
     bookmark: false,
   },
