@@ -21,4 +21,4 @@ This project helps users understand the scale and value of various companies by 
 
 ## 📸 Screenshots
 
-![Home Page](./public/homepage.png)
+![Homepage Screenshot](./public/homepage.png)
