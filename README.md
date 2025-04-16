@@ -2,8 +2,6 @@
 
 =======
 
-# You can find my project on this link https://project-git-main-vladikhans-projects.vercel.app/
-
 A sleek React web app for visualizing and analyzing the market capitalization of companies. Built with **React** and **Bootstrap**.
 
 ## 💡 About
@@ -19,7 +17,7 @@ This project helps users understand the scale and value of various companies by 
 
 ## 🌐 Live Demo
 
-👉 [Click here to view the live site](hhttps://project-git-main-vladikhans-projects.vercel.app/)
+👉 [Click here to view the live site](https://project-git-main-vladikhans-projects.vercel.app/)
 
 ## 📸 Screenshots
 
